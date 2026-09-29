@@ -13,6 +13,11 @@ jobs:
       contents: write
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
@@ -21,7 +26,7 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Push snake
+      - name: Push snake to output branch
         uses: EndBug/add-and-commit@v9
         with:
           message: "chore: update contribution snake"
