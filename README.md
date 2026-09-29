@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,33:7928ca,66:00b3ff,100:00ffd5&height=280&section=header&text=Rudraksh%20Sitoke&fontSize=62&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=%F0%9F%9A%80%20first-year%20CS%20%7C%20learning%20in%20public%20%7C%20main%20character%20arc%20loading...&descSize=18&descAlignY=62" width="100%" />
 
 <a href="https://github.com/rudyy07">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=FF2D95&center=true&vCenter=true&width=700&height=45&lines=hey+bestie%2C+I'm+Rudraksh+%F0%9F%91%8B;first-year+CS+student+%F0%9F%8E%93;learning+Python+%26+web+dev+%F0%9F%90%8D;shipping+PRs+in+real+repos+%F0%9F%94%80;speedrunning+my+way+to+a+first+internship+%F0%9F%8E%AF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=FF2D95&center=true&vCenter=true&width=700&height=45&lines=Hey%2C+I'm+Rudraksh+%F0%9F%91%8B;first-year+CS+student+%F0%9F%8E%93;learning+Python+%26+web+dev+%F0%9F%90%8D;shipping+PRs+in+real+repos+%F0%9F%94%80;speedrunning+my+way+to+a+first+internship+%F0%9F%8E%AF" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -130,3 +130,4 @@ open to: beginner-friendly issues · collabs · hackathon teams · advice from s
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,33:7928ca,66:00b3ff,100:00ffd5&height=120&section=footer&animation=twinkling" width="100%" />
 
 </div>
+
