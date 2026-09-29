@@ -1,77 +1,209 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0f3d5e,100:00e5ff&height=260&section=header&text=Rudraksh%20Sitoke&fontSize=60&fontColor=ffffff&fontAlignY=42&desc=git%20commit%20-m%20%22learning%20in%20public%22&descSize=20&descAlignY=64&descColor=00e5ff" width="100%" /> <a href="https://github.com/rudyy07"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=640&height=40&lines=First-year+CS+student+%F0%9F%9A%80;Learning+Python+%26+Web+Dev;Shipping+PRs+in+real+repos;Building+towards+my+first+internship" alt="Typing SVG" /> </a> <br/> <img src="https://img.shields.io/badge/status-learning%20%26%20building-00e5ff?style=for-the-badge&labelColor=0d1117" /> <img src="https://img.shields.io/badge/open%20source-contributing-39d353?style=for-the-badge&labelColor=0d1117" /> <img src="https://img.shields.io/badge/goal-first%20internship-ff6b6b?style=for-the-badge&labelColor=0d1117" />
 
-<br/><br/>
 
-<a href="https://www.linkedin.com/in/rudraksh-sitoke-186b003ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/rudyy07"><img src="https://img.shields.io/badge/GitHub-rudyy07-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,100:161B22&text=RUDRAKSH%20SITOKE&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=CODE%20%E2%86%92%20BUILD%20%E2%86%92%20CONTRIBUTE&descAlignY=60&descSize=15" />
+</p>
 
-</div> <br/>
-~/whoami
-bash
+<p align="center">
+  <a href="https://github.com/rudyy07">
+    <img src="https://img.shields.io/badge/GitHub-rudyy07-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/rudraksh-sitoke-186b003ba">
+    <img src="https://img.shields.io/badge/LinkedIn-Rudraksh%20Sitoke-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+```bash
 $ whoami
 rudraksh_sitoke
+```
 
-$ cat about.txt
-First-year CS student from Bengaluru.
-Learning Python, web dev and DSA.
-Exploring AI, hackathons and real-world software.
-Already working inside real repos: branches, PRs, tests, code review.
+### `about.txt`
 
-$ echo $STATUS
-early in the journey, not slowing down
+First-year CS student from Bengaluru learning by **building, debugging and contributing**.
 
-$ ./goal.sh
-> internship  ✔ preparing
-> open source ✔ contributing
-> projects    ✔ building
-<br/>
-~/roadmap
-📚 Learn
-🔨 Build
-🌍 Open Source
-🤝 Collaborate
-🎯 Internship
-<br/>
-~/now
-	What's happening
-🔥 Shipping	Unit tests PR for DevForge: covers prState, repoNameFromUrl, isQualityRepo in lib/github-prs.test.ts (+50 lines)
-🧪 Practicing	The full contribution loop in workbook: fork → branch → commit → PR → review
-📚 Learning	Python · HTML/CSS/JS · DSA · unit testing · debugging
-🌱 Exploring	AI · Next.js (just started) · hackathons
-<br/>
-~/stack
-<div align="center">
+Currently working with **Python, Web Development, DSA and Git/GitHub** while exploring **AI, hackathons and open source**.
 
-Languages<br/> <img src="https://skillicons.dev/icons?i=py,js,html,css&theme=dark" /><br/><br/> Python libs · Just starting<br/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br/><br/> Tools<br/> <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+I'm especially interested in understanding how real codebases work — not just writing code from scratch.
 
-</div>
+```text
+early in the journey
+        ↓
+learning fast
+        ↓
+building things
+        ↓
+contributing to real repos
+        ↓
+getting internship-ready
+```
 
-💡 I only list what I actually use. The rest is on my learning list.
+---
 
-<br/>
-~/repos
-Repo	Notes
-🧪 workbook	Learning the open-source workflow
-🐍 python-mini-project	Python practice and contributions
-🌌 THE-MULTIVERSE	one line on what it is
-🧱 our-dev-wall	one line on your part
+## `now`
 
-Some are forks I made to learn. I'd rather be honest than pad the list.
+### 🔥 Shipping
 
-<br/>
-~/activity
-<div align="center">
-📦 Repos	🏅 Achievement	🔀 Focus
-9 and growing	Pull Shark	PRs, tests, code review
-<a href="https://github.com/rudyy07"> <img src="https://streak-stats.demolab.com?user=rudyy07&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub streak" /> </a> </div>
+**DevForge — Unit Tests**
 
-My full contribution graph is right on my profile, just above this README. 👆
+Added tests for:
 
-<br/>
-~/contact
-text
-Open to: beginner-friendly issues · collaborations · hackathon teams · advice from seniors
-<div align="center">
+`prState` · `repoNameFromUrl` · `isQualityRepo`
 
-<a href="https://www.linkedin.com/in/rudraksh-sitoke-186b003ba"><img src="https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+in `lib/github-prs.test.ts`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d5e,100:00e5ff&height=110&section=footer" width="100%" /> </div>
+**+50 lines** of tests in a real open-source codebase.
+
+### 🧪 Practicing
+
+The complete contribution workflow:
+
+`fork → branch → commit → PR → review → improve`
+
+### 📚 Learning
+
+`Python` · `HTML/CSS/JS` · `DSA` · `Unit Testing` · `Debugging`
+
+### 🌱 Exploring
+
+`AI` · `Next.js` · `Hackathons` · `Open Source`
+
+---
+
+## `open-source`
+
+I'm learning software engineering by working inside **real repositories**.
+
+```text
+issue
+  ↓
+understand the codebase
+  ↓
+reproduce the problem
+  ↓
+write the fix
+  ↓
+test
+  ↓
+pull request
+  ↓
+review
+  ↓
+improve
+```
+
+Currently learning through:
+
+* **NST-DEVFORGE / DevForge**
+* **NST-DEVFORGE / workbook**
+* Real issues, PRs, tests and code review
+
+> `one real PR > ten tutorials`
+
+---
+
+## `stack`
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
+
+### Libraries / Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=numpy,matplotlib,nextjs&theme=dark" />
+</p>
+
+> I only list things I'm actually using or actively learning.
+
+---
+
+## `projects`
+
+| Project                    | What it means                                                    |
+| -------------------------- | ---------------------------------------------------------------- |
+| 🧪 **DevForge**            | Open-source contribution, unit testing, PRs & code review        |
+| 📚 **workbook**            | Learning the complete Git/GitHub contribution workflow           |
+| 🐍 **python-mini-project** | Python practice and small experiments                            |
+| 🌌 **THE-MULTIVERSE**      | Exploring C++ through a collaborative project                    |
+| 🎮 **Zig-Zag**             | Game project — building, experimenting and learning through code |
+| 🧱 **our-dev-wall**        | Collaborative web project and GitHub workflow practice           |
+
+Some repositories are forks I use to learn from real codebases.
+
+I'd rather show the journey honestly than pad the profile with technologies I don't use.
+
+---
+
+## `activity`
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  📦  9 repositories                          │
+│  🏅  Pull Shark                              │
+│  🔀  Open-source PRs                         │
+│  🧪  Unit tests + CI                         │
+│  💻  Git / GitHub workflow                   │
+│  🎮  Zig-Zag project                         │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudyy07&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudyy07&theme=github-dark&hide_border=true" height="165"/>
+</p>
+
+---
+
+## `roadmap`
+
+```text
+2026
+
+Python ────────────────┐
+                       │
+Web Development ───────┤
+                       ├──→ Real Projects
+DSA ───────────────────┤
+                       │
+Open Source ───────────┘
+                              ↓
+                        Real Experience
+                              ↓
+                         Internship
+```
+
+---
+
+## `contact`
+
+Open to:
+
+`beginner-friendly issues` · `collaborations` · `hackathons` · `open source`
+
+<p>
+  <a href="https://www.linkedin.com/in/rudraksh-sitoke-186b003ba">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rudrakshsitoke@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+
+`Learn → Build → Break → Debug → Contribute → Repeat`
+
+</p>
