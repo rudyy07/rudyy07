@@ -59,7 +59,14 @@ Some are forks I made to learn. I'd rather be honest than pad the list.
 
 <br/>
 ~/activity
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=rudyy07&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudyy07&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudyy07&theme=react-dark&hide_border=true&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&height=260" width="100%" /> </div> <br/>
+<div align="center">
+📦 Repos	🏅 Achievement	🔀 Focus
+9 and growing	Pull Shark	PRs, tests, code review
+<a href="https://github.com/rudyy07"> <img src="https://streak-stats.demolab.com?user=rudyy07&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub streak" /> </a> </div>
+
+My full contribution graph is right on my profile, just above this README. 👆
+
+<br/>
 ~/contact
 text
 Open to: beginner-friendly issues · collaborations · hackathon teams · advice from seniors
