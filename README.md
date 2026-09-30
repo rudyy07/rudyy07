@@ -100,21 +100,11 @@ $ ./current_arc.sh
 
 ## 🐍 `commit_snake.exe`
 
-<div align="center">
+> 🐍 eating my contributions...
 
-<img src="https://raw.githubusercontent.com/rudyy07/rudyy07/main/dist/snake.svg"
-     alt="snake eating my contributions"
-     width="100%" />
-
-<sub>the snake eats my commits. feed it. 🍎</sub>
-
-<br/>
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=rudyy07&theme=radical&hide_border=true&background=0d1117"
-     alt="GitHub streak" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rudyy07/rudyy07/main/dist/snake.svg" alt="GitHub contribution snake" />
+</p>
 
 <br/>
 
