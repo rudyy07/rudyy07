@@ -24,7 +24,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
+            dist/snake-dark.svg?palette=github-dark&color_snake=%2300ffd5&color_dots=%23161b22,%237928ca,%23ff0080,%2300b3ff,%2300ffd5
 
       - name: Push snake to output branch
         uses: EndBug/add-and-commit@v9
