@@ -265,14 +265,15 @@ Working with real GitHub repositories as part of my software engineering learnin
 
 <div align="center">
 
-| Recognition     | Details                                                                 |
-| --------------- | ----------------------------------------------------------------------- |
-| Open Source     | Contributing to real GitHub repositories as a first-year student        |
-| Development     | Practicing the complete PR workflow from branch creation to review      |
-| Hackathons      | Participating in college hackathons and technical competitions          |
-| Technical Clubs | Active in Development, Robotics and Competitive Programming communities |
+| Recognition             | Details                                                                 |
+| ----------------------- | ----------------------------------------------------------------------- |
+| 🏆 **Hackathon Winner** | Won my **very first hackathon — Vanguards** with **Team CYPHER**        |
+| Open Source             | Contributing to real GitHub repositories as a first-year student        |
+| Development             | Practicing the complete PR workflow from branch creation to review      |
+| Technical Clubs         | Active in Development, Robotics and Competitive Programming communities |
 
 </div>
+
 
 ---
 
